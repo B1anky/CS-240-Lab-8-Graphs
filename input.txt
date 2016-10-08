@@ -1,0 +1,11 @@
+4
+Boston
+New_York
+Chicago
+Atlanta
+5
+Boston New_York
+Atlanta Chicago
+Chicago Atlanta
+Chicago New_York
+New_York Atlanta
